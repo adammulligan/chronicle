@@ -1,0 +1,3 @@
+# Chronicle
+
+My automated diary
